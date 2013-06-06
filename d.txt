@@ -1,0 +1,9 @@
+Having lot of plans of shopping?? Lot of things to buy, but you forget when you go to market? Here is an application to help you out for all these factors. Here you can organize you shopping list, sort them into categories & do shopping according to them.
+	
+Features:
+•	Organize your shopping list.
+•	Sort out your shopping list.
+•	Add Shopping plans through the app bar.
+•	Add Shopping items through the app bar.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
